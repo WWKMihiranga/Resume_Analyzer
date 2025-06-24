@@ -49,6 +49,6 @@ This project is a smart, interactive **Resume Analyzer** built using **Python**,
 
 ## 🧑‍💻 Author
 
-Your Name Kavindu Mihiranga
+Built by Kavindu Mihiranga
 
 ---
